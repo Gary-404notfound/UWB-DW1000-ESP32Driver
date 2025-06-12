@@ -5,7 +5,7 @@
 
 ## **开始**
 
-1.Arduino安装DW1000_library.zip库。![](.\image\install_library.jpg)
+1.Arduino安装DW1000_library.zip库。![](./image/install_library.jpg)
 
-2.打开例程，编译&上传。![](.\image\upload.jpg)
+2.打开例程，编译&上传。![](./image/upload.jpg)
 
